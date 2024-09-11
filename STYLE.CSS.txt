@@ -1,0 +1,28 @@
+@@ -12,7 +12,7 @@ cabeçalho {
+    cor :  rgb ( 42 ,  122 ,  228 );
+}
+
+seção {
+. chamada {
+    fundo :  rgb ( 184 ,  156 ,  213 );
+    preenchimento inferior :  80 px ;
+    preenchimento-superior :  80 px ;
+@@ -30,4 +30,19 @@ h1 {
+
+p {
+    tamanho da fonte :  20 px ;
+}
+
+imagem {
+    altura :  200 px ;
+}
+
+. categoria-vídeos {
+    exibição : flex;
+    estouro-x : automático;
+    lacuna :  10 px ;
+}
+
+. categoria {
+    preenchimento-esquerdo :  20 px ;
+    preenchimento-direito :  20 px ;
